@@ -85,7 +85,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| O sistema deve permitir que um usuário cadastrado atualize seus dados.   | Média |
 |RF-005| O sistema deve cadastrar, atualizar, excluir e buscar grupos de despesa.   | Alta |
 |RF-006| O sistema deve cadastrar, atualizar, excluir e buscar grupos de receita.   | Alta |
-|RF-007| Deve ser capaz de exibir as receitas e despesas do usuário.   | Alta |
+|RF-007| Deve ser capaz de exibir as receitas e despesas mensais do usuário.   | Alta |
 
 
 
