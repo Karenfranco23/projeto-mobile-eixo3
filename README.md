@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/100963513/219547623-d7df8954-f37d-44fe-8029-7b8ed704c008.png width="300")
+
+ <img src= "https://raw.githubusercontent.com/Karenfranco23/projeto-mobile-eixo3/c4843333a477f3e566a0afc629be08f38850f276/logo.png" style="width:250px;height:200px">
 
 # MINHAS ECONOMIAS
 
