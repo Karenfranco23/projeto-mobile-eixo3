@@ -79,13 +79,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir o acesso às funcionalidades apenas para pessoas que possuam usuário e senha.  | ALTA |
-|RF-002| O sistema deve permitir que um usuário se cadastre. | ALTA | 
-|RF-003| O sistema deve permitir que um usuário recupere sua senha   | ALTA |
-|RF-004| O sistema deve permitir que um usuário cadastrado atualize seus dados.   | MEDIO |
-|RF-005| O sistema deve cadastrar, atualizar, excluir e buscar grupos de despesa.   | ALTA |
-|RF-006| O sistema deve cadastrar, atualizar, excluir e buscar grupos de receita.   | ALTA |
-|RF-007| Deve ser capaz de exibir as receitas e despesas do usuário.   | ALTA |
+|RF-001| O sistema deve permitir o acesso às funcionalidades apenas para pessoas que possuam usuário e senha.  | Alta |
+|RF-002| O sistema deve permitir que um usuário se cadastre. | Alta | 
+|RF-003| O sistema deve permitir que um usuário recupere sua senha   | Alta |
+|RF-004| O sistema deve permitir que um usuário cadastrado atualize seus dados.   | Média |
+|RF-005| O sistema deve cadastrar, atualizar, excluir e buscar grupos de despesa.   | Alta |
+|RF-006| O sistema deve cadastrar, atualizar, excluir e buscar grupos de receita.   | Alta |
+|RF-007| Deve ser capaz de exibir as receitas e despesas do usuário.   | Alta |
 
 
 
@@ -94,11 +94,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Não é permitido existir usuários duplicados no sistema.| ALTA | 
-|RNF-002| Toda operação de consulta no sistema não deve ultrapassar 5 segundos. |  BAIXA | 
-|RNF-003| Toda operação de inserção no sistema não deve ultrapassar 5 segundos. |  BAIXA | 
-|RNF-004| A senha deve conter no mínimo 6 e no máximo 10 caracteres incluindo, letra maiúscula, minúscula e número.  |  BAIXA | 
-|RNF-005| O sistema deverá manter o funcionamento de 96% do tempo em 24hrs por dia, dos 7 dias da semana. |  BAIXA | 
+|RNF-001| Não é permitido existir usuários duplicados no sistema.| Alta | 
+|RNF-002| Toda operação de consulta no sistema não deve ultrapassar 5 segundos. |  Média | 
+|RNF-003| Toda operação de inserção no sistema não deve ultrapassar 5 segundos. |  Média | 
+|RNF-004| A senha deve conter no mínimo 6 e no máximo 10 caracteres incluindo, letra maiúscula, minúscula e número.  |  Alta | 
+|RNF-005| O sistema deverá manter o funcionamento de 96% do tempo em 24hrs por dia, dos 7 dias da semana. |  Média | 
 
 
 
