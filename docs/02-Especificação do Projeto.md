@@ -94,9 +94,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Não é permitido existir usuários duplicadosno sistema.| ALTA | 
+|RNF-001| Não é permitido existir usuários duplicados no sistema.| ALTA | 
 |RNF-002| Toda operação de consulta no sistema não deve ultrapassar 5 segundos. |  BAIXA | 
 |RNF-003| Toda operação de inserção no sistema não deve ultrapassar 5 segundos. |  BAIXA | 
+|RNF-004| A senha deve conter no mínimo 6 e no máximo 10 caracteres incluindo, letra maiúscula, minúscula e número.  |  BAIXA | 
+|RNF-005| O sistema deverá manter o funcionamento de 96% do tempo em 24hrs por dia, dos 7 dias da semana. |  BAIXA | 
 
 
 
