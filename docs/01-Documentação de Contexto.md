@@ -12,7 +12,7 @@ As pessoas quando recebem seu dinheiro, já pensam logo em pagar as suas dívida
 
 ## Objetivos
 
-Com um aplicativo como o “nome do app” ele te possibilitara conseguir ter uma boa organização financeira, sem ficar se preocupando em quanto você gastou até o momento, você coloca os seus ganhos e os gastos mensais, e por meio destes valores ele já faz os cálculos e em pouco tempo de forma fácil você visualiza quanto ainda sobra. Com os gastos separados por categorias, permite você observar em quais áreas tem mais gastos, categorias como: Comida, Roupas, Lazer etc. 
+Com um aplicativo como o “Minhas Economias” ele te possibilitara conseguir ter uma boa organização financeira, sem ficar se preocupando em quanto você gastou até o momento, você coloca os seus ganhos e os gastos mensais, e por meio destes valores ele já faz os cálculos e em pouco tempo de forma fácil você visualiza quanto ainda sobra. Com os gastos separados por categorias, permite você observar em quais áreas tem mais gastos, categorias como: Comida, Roupas, Lazer etc. 
 
 ## Justificativa
 
