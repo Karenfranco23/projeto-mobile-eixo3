@@ -9,9 +9,7 @@
 
 `3º Semestre`
 
-Devido ao alto número de brasileiros inadimplentes no país e “O dinheiro não é ensinado nas escolas. As escolas se concentram nas habilidades acadêmicas e profissionais mas não nas habilidades financeiras. [...]” (KIYOSAKI, LECHTER, 1997, p.14), acreditamos que a organização financeira é um facilitador para adoção de uma vida estável. 
-
-Sendo assim, um organizador financeiro pode auxiliar o indivíduo a ter mais equilíbrio, bem como aproveitar o que realmente importa e ter uma vida financeira saudável a longo prazo. Desta forma, pretendemos simplificar a gestão das finanças pessoais para que lidar com o dinheiro não precise ser algo tão complexo e tornar possível para todos que possuem interesse, mudanças de alguns hábitos e comportamentos que podem estar dificultando a vida financeira.
+Devido ao alto número de brasileiros inadimplentes no país, acreditamos que a organização financeira é um facilitador para adoção de uma vida estável. Sendo assim, um organizador financeiro pode auxiliar o indivíduo a ter mais equilíbrio, bem como aproveitar o que realmente importa e ter uma vida financeira saudável a longo prazo. Desta forma, pretendemos simplificar a gestão das finanças pessoais para que lidar com o dinheiro não precise ser algo tão complexo e tornar possível para todos que possuem interesse, mudanças de alguns hábitos e comportamentos que podem estar dificultando a vida financeira.
 
 ## Integrantes
 
