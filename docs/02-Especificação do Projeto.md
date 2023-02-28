@@ -132,16 +132,19 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+Uma matriz de rastreabilidade nada mais é do que uma forma de visualização do relacionamento entre os requisitos. Por meio dela, são listados os requisitos nas linhas e nas colunas da matriz, depois se aplica um X nas células correspondentes, caracterizando os relacionamentos entre os requisitos. Dessa forma, podemos utilizar para efeitos de ilustração, um sistema com sete requisitos. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
+Davis (1993) classifica as informações de rastreabilidade, inicialmente, em quatro tipos: 
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
+* Rastreabilidade backward-from: é a ligação entre os requisitos e as suas origens com outros documentos ou pessoas. 
 
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+* Rastreabilidade forward-from: a ligação entre os requisitos, o projeto e os componentes da implementação. 
+
+* Rastreabilidade backward-to: a ligação entre o projeto, os componentes de implementação e os requisitos. 
+
+* Rastreabilidade forward-to: a ligação de outros documentos com os requisitos relevantes
+
+![image](https://user-images.githubusercontent.com/100963513/221742153-ed1c0e2d-a043-4b49-923b-c26d1ed731c4.png)
 
 
 # Gerenciamento de Projeto
