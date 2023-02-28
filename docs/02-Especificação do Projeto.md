@@ -144,7 +144,8 @@ Davis (1993) classifica as informações de rastreabilidade, inicialmente, em qu
 
 * Rastreabilidade forward-to: a ligação de outros documentos com os requisitos relevantes
 
-![image](https://user-images.githubusercontent.com/100963513/221742153-ed1c0e2d-a043-4b49-923b-c26d1ed731c4.png)
+![image](https://user-images.githubusercontent.com/100963513/221742352-b900becf-fe97-4ac9-88c8-210aba5b315d.png)
+
 
 
 # Gerenciamento de Projeto
